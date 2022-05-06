@@ -1,0 +1,27 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PlatformerPuzzle/.vs/PlatformerPuzzle/v17
+/PlatformerPuzzle/Binaries/Win64
+/PlatformerPuzzle/Content/Characters
+/PlatformerPuzzle/Content/LevelPrototyping
+/PlatformerPuzzle/Content/ThirdPerson
+/PlatformerPuzzle/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap
+/PlatformerPuzzle/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/D/13
+/PlatformerPuzzle/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/B/AN/0Z4D0BFPHEXAYK76DY0WLL.uasset
+/PlatformerPuzzle/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/B/AN
+/PlatformerPuzzle/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/KP/VZTB4WP3P1L1F1WL9R6XLZ.uasset
+/PlatformerPuzzle/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/KP
+/PlatformerPuzzle/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/8/05/U8OLLG133BEQMR58UPHM3P.uasset
+/PlatformerPuzzle/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/8/05
+/PlatformerPuzzle/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/4A/NCNZF2U4ZTZ8XZJNF86FNT.uasset
+/PlatformerPuzzle/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/4A
+/PlatformerPuzzle/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/3/DH/JQTP3L9HHXRN8IUHATI906.uasset
+/PlatformerPuzzle/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/3/DH
+/PlatformerPuzzle/Intermediate
+/PlatformerPuzzle/Saved/Logs
+/PlatformerPuzzle/Saved/WorldPartition
+/PlatformerPuzzle/Saved/Config/CrashReportClient
+/PlatformerPuzzle/Saved/Config/WindowsEditor
+/.vs
