@@ -22,6 +22,14 @@ protected:
 	virtual void BeginPlay() override;
 
 private:
+	FVector StartLocation;
+	FVector GlobalTargetLoc;
+
 	UPROPERTY(EditAnywhere);
 	float Speed = 20.f;
+
+	UPROPERTY(EditAnywhere, Meta = (MakeEditWidget = true));
+	FVector TargetLocation;
+
+	void SwitchTargetAndStart();
 };
